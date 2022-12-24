@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Tomars-Kitchen-Biryani/static/css/main.e6c735aa.chunk.css",
+    "main.js": "/Tomars-Kitchen-Biryani/static/js/main.e2d77a0e.chunk.js",
+    "main.js.map": "/Tomars-Kitchen-Biryani/static/js/main.e2d77a0e.chunk.js.map",
+    "runtime-main.js": "/Tomars-Kitchen-Biryani/static/js/runtime-main.66b44e7e.js",
+    "runtime-main.js.map": "/Tomars-Kitchen-Biryani/static/js/runtime-main.66b44e7e.js.map",
+    "static/js/2.d0d6528a.chunk.js": "/Tomars-Kitchen-Biryani/static/js/2.d0d6528a.chunk.js",
+    "static/js/2.d0d6528a.chunk.js.map": "/Tomars-Kitchen-Biryani/static/js/2.d0d6528a.chunk.js.map",
+    "index.html": "/Tomars-Kitchen-Biryani/index.html",
+    "static/css/main.e6c735aa.chunk.css.map": "/Tomars-Kitchen-Biryani/static/css/main.e6c735aa.chunk.css.map",
+    "static/js/2.d0d6528a.chunk.js.LICENSE.txt": "/Tomars-Kitchen-Biryani/static/js/2.d0d6528a.chunk.js.LICENSE.txt",
+    "static/media/T.a611f4f7.png": "/Tomars-Kitchen-Biryani/static/media/T.a611f4f7.png",
+    "static/media/App.css": "/Tomars-Kitchen-Biryani/static/media/bg.3d421b1b.png",
+    "static/media/findus.3194536b.png": "/Tomars-Kitchen-Biryani/static/media/findus.3194536b.png",
+    "static/media/gallery01.ac22f171.png": "/Tomars-Kitchen-Biryani/static/media/gallery01.ac22f171.png",
+    "static/media/gallery02.b5605b5a.png": "/Tomars-Kitchen-Biryani/static/media/gallery02.b5605b5a.png",
+    "static/media/gallery03.e47af5fd.png": "/Tomars-Kitchen-Biryani/static/media/gallery03.e47af5fd.png",
+    "static/media/gallery04.03c6e7f7.png": "/Tomars-Kitchen-Biryani/static/media/gallery04.03c6e7f7.png",
+    "static/media/knife.59805e7b.png": "/Tomars-Kitchen-Biryani/static/media/knife.59805e7b.png",
+    "static/media/overlaybg.165362ee.png": "/Tomars-Kitchen-Biryani/static/media/overlaybg.165362ee.png",
+    "static/media/spoon.d079f43f.svg": "/Tomars-Kitchen-Biryani/static/media/spoon.d079f43f.svg",
+    "static/media/swiggy.48eb04b3.svg": "/Tomars-Kitchen-Biryani/static/media/swiggy.48eb04b3.svg",
+    "static/media/tkb.a095268d.png": "/Tomars-Kitchen-Biryani/static/media/tkb.a095268d.png",
+    "static/media/welcome.23bef843.png": "/Tomars-Kitchen-Biryani/static/media/welcome.23bef843.png",
+    "static/media/zomato.37dc4963.svg": "/Tomars-Kitchen-Biryani/static/media/zomato.37dc4963.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66b44e7e.js",
+    "static/js/2.d0d6528a.chunk.js",
+    "static/css/main.e6c735aa.chunk.css",
+    "static/js/main.e2d77a0e.chunk.js"
+  ]
+}
