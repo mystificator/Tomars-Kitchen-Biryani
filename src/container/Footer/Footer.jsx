@@ -15,7 +15,6 @@ const Footer = () => (
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">Tomar Niwas, Manjupath, Dixitpura, Jabalpur</p>
         <p className="p__opensans">+91 8889917922</p>
-        <p className="p__opensans">+91 9329025956</p>
       </div>
 
       <div className="app__footer-links_logo">
