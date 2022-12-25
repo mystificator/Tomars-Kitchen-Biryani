@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tomars-Kitchen-Biryani/static/css/main.e6c735aa.chunk.css",
-    "main.js": "/Tomars-Kitchen-Biryani/static/js/main.b09b0caa.chunk.js",
-    "main.js.map": "/Tomars-Kitchen-Biryani/static/js/main.b09b0caa.chunk.js.map",
+    "main.js": "/Tomars-Kitchen-Biryani/static/js/main.3a4461e2.chunk.js",
+    "main.js.map": "/Tomars-Kitchen-Biryani/static/js/main.3a4461e2.chunk.js.map",
     "runtime-main.js": "/Tomars-Kitchen-Biryani/static/js/runtime-main.66b44e7e.js",
     "runtime-main.js.map": "/Tomars-Kitchen-Biryani/static/js/runtime-main.66b44e7e.js.map",
     "static/js/2.d0d6528a.chunk.js": "/Tomars-Kitchen-Biryani/static/js/2.d0d6528a.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.66b44e7e.js",
     "static/js/2.d0d6528a.chunk.js",
     "static/css/main.e6c735aa.chunk.css",
-    "static/js/main.b09b0caa.chunk.js"
+    "static/js/main.3a4461e2.chunk.js"
   ]
 }
