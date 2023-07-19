@@ -5,6 +5,8 @@ import { FooterOverlay, Ordernow } from '../../components';
 import { images } from '../../constants';
 import './Footer.css';
 
+const currYear = new Date().getFullYear();
+
 const Footer = () => (
   <div className="app__footer section__padding" id="login">
     <FooterOverlay />
@@ -45,7 +47,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2022 Tomar&apos;s Kitchen Biryani. All Rights reserved.</p>
+      <p className="p__opensans">{currYear} Tomar&apos;s Kitchen Biryani. All Rights reserved.</p>
     </div>
 
   </div>
